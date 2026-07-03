@@ -44,19 +44,23 @@ https://github.com/Nitya-11/Agency.AI
 
 ### Home Page
 
-(Add Screenshot Here)
+<img width="1880" height="886" alt="image" src="https://github.com/user-attachments/assets/5722b0f6-5bdc-4d66-bb8e-0135b7a371e0" />
+
 
 ### Services Section
 
-(Add Screenshot Here)
+<img width="1870" height="845" alt="image" src="https://github.com/user-attachments/assets/7986067f-dd8d-40e9-9154-d38bef4e9c45" />
+
 
 ### Portfolio Section
 
-(Add Screenshot Here)
+<img width="1890" height="845" alt="image" src="https://github.com/user-attachments/assets/5af63be6-bb68-4154-bde8-c7617e3b8a57" />
+
 
 ### Contact Section
 
-(Add Screenshot Here)
+<img width="1879" height="856" alt="image" src="https://github.com/user-attachments/assets/8c8a1040-c324-4c7f-977c-e82380ce8d2f" />
+
 
 ---
 
@@ -73,33 +77,7 @@ src/
 
 ---
 
-## ⚙️ Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/project-name.git
-```
-
-Go to project folder
-
-```bash
-cd project-name
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Run development server
-
-```bash
-npm run dev
-```
-
----
 
 ## 🔑 Environment Variables
 
@@ -114,29 +92,6 @@ VITE_WEB3FORMS_ACCESS_KEY=YOUR_ACCESS_KEY
 ## 📬 Contact Form
 
 The contact form is integrated with **Web3Forms**, allowing visitors to send messages directly to the administrator's email without requiring a custom backend.
-
----
-
-## 🚀 Deployment
-
-This project can be deployed on:
-
-- Vercel
-- Netlify
-- Hostinger
-- GitHub Pages (Static Version)
-
-Build the project
-
-```bash
-npm run build
-```
-
-Preview production build
-
-```bash
-npm run preview
-```
 
 ---
 
@@ -156,13 +111,13 @@ npm run preview
 Your Name
 
 LinkedIn:
-https://linkedin.com/in/your-profile
+https://www.linkedin.com/in/nitya-singh-5b7490317/
 
 GitHub:
-https://github.com/yourusername
+https://github.com/Nitya-11
 
 Email:
-your@email.com
+nityasingh559@gmail.com
 
 ---
 
