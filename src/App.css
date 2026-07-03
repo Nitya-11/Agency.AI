@@ -1,0 +1,13 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background: #f6f8fb;
+  padding-top: 40px;
+}
+
+.app-logo {
+  width: 120px;
+  height: auto;
+}
